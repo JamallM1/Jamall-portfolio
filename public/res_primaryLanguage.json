@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": " I'm Jamall Malik.I’m a Full Stack Software Developer who specializes in python. I’ve worked on multiple teams where I was a leader and a follower. I’m very passionate about the tech industry because one Function can change the ability of the company. One of my main goals is to never stop learning and to have a positive impact on the company and its goals.Thank you",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,14 +11,14 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Project Steel",
+        "startDate": "2022",
+        "description": "The website that could change your fitness journey. It takes in users input of name, weight, multiple exercises, and time spent on those exercises. Then the website returns a graph of calories burned and weight lost ",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/projectsteel.JPG",
+          "images/projectsteel2.JPG"
         ],
-        "url": "",
+        "url": "https://sharp-research.github.io/project-steel/",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -35,8 +35,8 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
+        "title": "301 Final Project",
+        "startDate": "2022",
         "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
         "images": [
           "images/portfolio/photography/p1.jpg",
@@ -56,7 +56,7 @@
       },
       {
         "title": "3D Object Viewer",
-        "startDate": "2015",
+        "startDate": "2022",
         "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
         "images": [
           "images/portfolio/adventure/p1.jpg",
